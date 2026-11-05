@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:heavy_ammo",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:bandage",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:rifle_ammo",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.40
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:revolver"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:rifle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:shotgun"
+        }
+      ]
+    }
+  ]
+}

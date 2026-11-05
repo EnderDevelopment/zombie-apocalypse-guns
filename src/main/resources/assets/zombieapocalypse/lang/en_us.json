@@ -1,0 +1,32 @@
+{
+  "itemgroup.zombieapocalypse": "Zombie Apocalypse",
+
+  "item.zombieapocalypse.pistol": "Pistol",
+  "item.zombieapocalypse.revolver": "Revolver",
+  "item.zombieapocalypse.rifle": "Rifle",
+  "item.zombieapocalypse.shotgun": "Shotgun",
+  "item.zombieapocalypse.smg": "SMG",
+
+  "item.zombieapocalypse.pistol_ammo": "Pistol Ammo",
+  "item.zombieapocalypse.heavy_ammo": "Heavy Ammo",
+  "item.zombieapocalypse.rifle_ammo": "Rifle Ammo",
+  "item.zombieapocalypse.shells": "Shotgun Shells",
+  "item.zombieapocalypse.smg_ammo": "SMG Ammo",
+
+  "item.zombieapocalypse.scope": "Scope",
+  "item.zombieapocalypse.suppressor": "Suppressor",
+  "item.zombieapocalypse.extended_mag": "Extended Magazine",
+  "item.zombieapocalypse.laser_sight": "Laser Sight",
+
+  "item.zombieapocalypse.bandage": "Herbal Bandage",
+
+  "entity.zombieapocalypse.fast_zombie": "Fast Zombie",
+  "entity.zombieapocalypse.tank_zombie": "Tank Zombie",
+  "entity.zombieapocalypse.spitter_zombie": "Spitter Zombie",
+  "entity.zombieapocalypse.brute_zombie": "Brute Zombie",
+  "entity.zombieapocalypse.survivor": "Survivor",
+  "entity.zombieapocalypse.bullet": "Bullet",
+
+  "container.zombieapocalypse.gun_modifier": "Gun Modification",
+  "screen.zombieapocalypse.gun_modifier": "Gun Modification"
+}

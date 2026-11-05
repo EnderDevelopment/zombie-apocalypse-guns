@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:smg_ammo",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:bandage",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.30
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:smg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zombieapocalypse:laser_sight"
+        }
+      ]
+    }
+  ]
+}
